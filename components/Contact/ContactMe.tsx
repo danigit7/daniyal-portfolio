@@ -14,7 +14,7 @@ export default function ContactMe({}: Props) {
       <div className="flex flex-col space-y-10 mt-32">
         <h4 className="text-3xl font-semibold text-center">
           I have got just what you need.{" "}
-          <span className="text-[#F7AB0A]">Let's Talk.</span>
+          <span className="text-[#F7AB0A]">Let&apos;s Talk.</span>
         </h4>
 
         <div className="space-y-4">
