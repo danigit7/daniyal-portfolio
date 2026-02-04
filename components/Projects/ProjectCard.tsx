@@ -57,11 +57,11 @@ const ProjectCard = (props: Props) => {
         </motion.div> */}
 
       <div className="relative flex flex-col my-6 bg-gray-800 shadow-sm border border-slate-200 rounded-lg w-96">
-        <div className="relative h-56 m-2.5 overflow-hidden text-white rounded-md">
+        <div className="relative h-56 m-2.5 overflow-hidden text-white rounded-md bg-white">
           <Image 
             src={props.projectImage} 
             alt="card-image"  
-            className="w-full h-full object-cover"
+            className="w-full h-full object-contain p-1"
             width={400}
             height={224}
             priority={true}

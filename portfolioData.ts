@@ -170,6 +170,16 @@ I’m a passionate Full Stack Developer with hands-on experience in building mod
         gitHubLink: "May 2023 - July 2023",
         showGithubRepo: false
       },
+       {
+        projectName: "Inzaghi",
+        projectDesc:
+          "Inzaghi is an AI-powered food recommendation chatbot built for Peshawar that helps users discover restaurants and dishes based on their budget and preferences. It provides quick, relevant suggestions by analyzing location, food type, and price range, making it easier to decide what to eat and where without wasting time scrolling through apps.",
+        projectImage:
+          "/inzaghi.jpg",
+        projectLink: "https://huggingface.co/spaces/danida7/Inzaghi-FoodieAi",
+        gitHubLink: "May 2023 - July 2023",
+        showGithubRepo: false
+      },
       {
         projectName: "Blood Bank Management System",
         projectDesc:
